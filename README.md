@@ -1,9 +1,7 @@
 # Prework Study Guide Webpage
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-The motivation and reason behind building this project was to create a clear, concise study guide that is structured on an organized webpage that bootcamp students alike could utilize as a reference. This study guide gives insight on key concepts while learning to program. It includes the development aspects of HTML, CSS, Git and JavaScript.
+The motivation and purpose behind building this project was to create a clear, concise study guide that is structured on an organized webpage that bootcamp students alike could utilize as a reference. This study guide gives insight on key concepts while learning to program. It includes the development aspects of HTML, CSS, Git and JavaScript.
 
 ## Installation
 
